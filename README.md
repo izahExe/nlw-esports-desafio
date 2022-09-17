@@ -6,7 +6,7 @@
 
 Desafio e construído no evento Next Level Week (NLW) da Rocketseat 
 
-[Clique aqui para acessar](https://izahexe.github.io/nlw-trilha-explorer-desafio/)
+[Clique aqui para acessar](https://izahexe.github.io/nlw-esports-desafio/)
 
 ## 💻| Tecnologias 
 
